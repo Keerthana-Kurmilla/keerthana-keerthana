@@ -22,7 +22,8 @@ I’m an enthusiastic AI/ML engineer passionate about building intelligent syste
 
 ---
 
-![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Keerthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerthana-Kurmilla&show_icons=true&theme=radical)
+
 
 ---
 
