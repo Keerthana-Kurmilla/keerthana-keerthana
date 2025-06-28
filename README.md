@@ -12,9 +12,7 @@ I’m an enthusiastic AI/ML engineer passionate about building intelligent syste
 
 🎯 **Skills:**  
 - Programming: Python, C  
-- AI/ML: Machine Learning, Deep Learning, Neural Networks  
-- Computer Vision: OpenCV, MediaPipe  
-- Tools: Git, GitHub
+- AI/ML: Machine Learning, Neural Networks  
 
 📫 **Reach Me At:**  
 - 📧 [kurmillakeerthana37@gmail.com](mailto:kurmillakeerthana37@gmail.com)  
