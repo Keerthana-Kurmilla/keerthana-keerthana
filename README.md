@@ -1,5 +1,5 @@
 # Keerthana
-# Hi there, I'm Kurmilla Keerthana! 👋
+# Hi there, I'm Keerthana Kurmilla! 👋
 
 🌱 **About Me:**  
 I’m an enthusiastic AI/ML engineer passionate about building intelligent systems that combine machine learning, computer vision, and practical software development.
